@@ -1,0 +1,13 @@
+.App {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+
+body {
+  background-color: cornflowerblue;
+  background-image: url("./image/scenery.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
